@@ -1,0 +1,15 @@
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\bin\Debug\net6.0\exsample001_hello.exe
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\bin\Debug\net6.0\exsample001_hello.deps.json
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\bin\Debug\net6.0\exsample001_hello.runtimeconfig.json
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\bin\Debug\net6.0\exsample001_hello.dll
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\bin\Debug\net6.0\exsample001_hello.pdb
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.csproj.AssemblyReference.cache
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.AssemblyInfoInputs.cache
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.AssemblyInfo.cs
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.csproj.CoreCompileInputs.cache
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.dll
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\refint\exsample001_hello.dll
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.pdb
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\exsample001_hello.genruntimeconfig.cache
+C:\Users\yadja\Desktop\Lesson#\exampl\exsample001_hello\obj\Debug\net6.0\ref\exsample001_hello.dll
